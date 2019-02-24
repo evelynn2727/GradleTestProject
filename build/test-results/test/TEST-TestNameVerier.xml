@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNameVerier" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-24T19:33:45" hostname="Ewelinka" time="42.342">
+  <properties/>
+  <testcase name="loginTest" classname="TestNameVerier" time="42.342"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 18937
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+lut 24, 2019 8:33:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
